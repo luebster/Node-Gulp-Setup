@@ -1,0 +1,13 @@
+{
+    "dependencies": {},
+    "devDependencies": {
+        "gulp": "3.9.1",
+        "gulp-sass": "^4.0.2",
+        "gulp-print": "^5.0.2",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-autoprefixer": "6.1.0",
+        "gulp-babel": "8.0.0",
+        "@babel/core": "7.7.2",
+        "@babel/preset-env": "7.7.1"
+    }
+}
