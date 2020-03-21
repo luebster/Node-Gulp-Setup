@@ -11,6 +11,6 @@ _**Just a note:** the node, nvm, and gulp versions are specific to my particular
   * Enter npm install --global gulp-cli@2.0.1 
 * In Windows Explorer, create a folder to store your Git repos.
 * Copy package.json to that folder
-* cd your command prompt to that folder
-  * Enter npm install --save-dev
+* cd your command prompt to that folder and enter the command
+  * npm install --save-dev
 * 💲💲💲
